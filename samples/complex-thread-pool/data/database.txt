@@ -1,0 +1,9 @@
+https://www.cnn.com,cnn.html
+https://www.foxnews.com,foxnews.html
+https://www.stackexchange.com,stackexchange.html
+https://www.sfgate.com,sfgate.html
+https://www.google.com,google.html
+https://www.facebook.com,facebook.html
+https://www.stackoverflow.com,stackoverflow.html
+
+
